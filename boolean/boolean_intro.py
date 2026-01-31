@@ -1,4 +1,3 @@
-print(10 > 9)
-print(10 == 9)
-print(10 < 9)
-print(1>=1)
+print(100 > 9)
+print(30 == 90)
+print(3 < 2)

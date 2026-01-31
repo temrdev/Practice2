@@ -1,5 +1,5 @@
 x = "Hello bro"
-y = 151
+y = 1510
 
 print(bool(x))
 print(bool(y))
